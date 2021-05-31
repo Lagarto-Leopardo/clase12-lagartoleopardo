@@ -26,6 +26,7 @@ El Lagarto Leopardo o _Liolaemus leopardinus_ Lagartija de tamaño grande (longi
 
 ## Referentes infográficos:
 ### Estilo gráfico 
+- [Corte espacial](https://www.scmp.com/infographics/article/2100532/how-asian-face-got-its-unique-characteristics)
 - [Up in smoke](https://graphics.reuters.com/USA-WILDFIRES/WINE/bdwpkkmxmpm/index.html)
 - [Assessing Australia’s “ecological disaster”](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html) 
 ### Interacción
