@@ -26,7 +26,8 @@ El Lagarto Leopardo o _Liolaemus leopardinus_ Lagartija de tamaño grande (longi
 
 ## Referentes infográficos:
 ### Estilo gráfico 
-- [Up in smoke](https://graphics.reuters.com/USA-WILDFIRES/WINE/bdwpkkmxmpm/index.html) 
+- [Up in smoke](https://graphics.reuters.com/USA-WILDFIRES/WINE/bdwpkkmxmpm/index.html)
+- [Assessing Australia’s “ecological disaster”](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html) 
 ### Interacción
 - [La tribu amenazada](https://graphics.reuters.com/BRAZIL-INDIGENOUS/MINING/rlgvdllonvo/index.html) 
 - [How thawing permafrost could fuel climate warming](https://graphics.reuters.com/CLIMATE-CHANGE/PERMAFROST/oakveelglvr/index.html)
