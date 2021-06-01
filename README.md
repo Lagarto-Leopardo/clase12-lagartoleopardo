@@ -6,7 +6,7 @@
 - [Catalina Toledo](https://github.com/catalinatoledo) Ilustradora
 - [Francisca Villalón](https://github.com/Francisca-Pankii) Ilustradora
 
-El Lagarto Leopardo o _Liolaemus leopardinus_ Lagartija de tamaño grande (longitud hocico - cloaca = 94 mm; longitud cola = 132 mm) y aspecto robusto, con extremidades cortas. Cuello fuertemente plegado, más ancho que la cabeza. Escamas del dorso redondeadas, subimbricadas, quilladas, sin terminaciones en punta. Endémico de Chile. Registrado en la Región de Valparaíso y la Región Metropolitana. Actualmente es una especie que se encuentra en la etapa 3: En Peligro.
+El Lagarto Leopardo o _Liolaemus leopardinus_ Lagartija de tamaño grande (longitud hocico - cloaca = 94 mm; longitud cola = 132 mm) y aspecto robusto, con extremidades cortas. Cuello fuertemente plegado, más ancho que la cabeza. Escamas del dorso redondeadas, subimbricadas, quilladas, sin terminaciones en punta. Endémico de Chile. Registrado en la Región de Valparaíso y la Región Metropolitana. Actualmente es una especie que se encuentra en la etapa 4: En Peligro.
 
 ![alt text](https://www.zooplus.es/magazine/wp-content/uploads/2020/06/Gecko-leopardo-1.jpeg "Lagarto leopardo")
 
