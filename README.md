@@ -12,7 +12,7 @@ El Lagarto Leopardo o _Liolaemus leopardinus_ Lagartija de tamaño grande (longi
 
 | Nombre común | Nombre científico | Reino | Clase | Familia | Estado de conservación | 
 | -------------|:-----------------:|  ---  |  ---  |  ---    |         ---            |
-| Lagarto leopardo   | Liolaemus leopardinus | Animalia | Reptilio | Liolaemidae | En Peligro (EN) |
+| Lagarto leopardo   | Liolaemus leopardinus | Animalia | Reptilia | Liolaemidae | En Peligro (EN) |
 
 
 
